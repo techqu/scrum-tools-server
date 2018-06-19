@@ -1,4 +1,4 @@
-package com.company.project;
+package com.github.quguang.scrumTool;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
